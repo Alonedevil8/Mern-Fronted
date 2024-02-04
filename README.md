@@ -3,6 +3,7 @@
 Descripción
 
 Este proyecto constituye la parte frontend de una aplicación desarrollada para aprender el stack MERN (MongoDB, Express.js, React, Node.js). La aplicación se centra en la creación de un sistema de gestión de proyectos.
+
 Características
 
     Desarrollado con Vite y React.
@@ -13,6 +14,7 @@ Características
     Interfaz de usuario moderna con Tailwind CSS y componentes de @headlessui/react.
 
 Inicio
+
 Prerrequisitos
 
     Node.js y npm instalados.
